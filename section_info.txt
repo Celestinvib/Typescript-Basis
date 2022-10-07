@@ -1,0 +1,6 @@
+//With nodejs installend and npm
+npm install -g typescript
+
+ tsc .\app.ts -> To compile ts to js
+ tsc --init  -> To get the ts config file 
+ tsc -> (with the config file) to run all ts with the configuration setted
